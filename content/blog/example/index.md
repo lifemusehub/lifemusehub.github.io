@@ -1,9 +1,9 @@
 ---
-title: "Example Post"
-description: "Just an example post."
-summary: "You can use blog posts for announcing product updates and features."
-date: 2023-09-07T16:27:22+02:00
-lastmod: 2023-09-07T16:27:22+02:00
+title: "The Latest Article"
+description: "The latest article about life musing and inspiration"
+summary: "Announcing the latest and the greatest."
+date: 2024-04-24T16:27:22+02:00
+lastmod: 2024-04-24T16:27:22+02:00
 draft: false
 weight: 50
 categories: []
@@ -12,7 +12,7 @@ contributors: []
 pinned: false
 homepage: false
 seo:
-  title: "" # custom title (optional)
+  title: "Article Update" # custom title (optional)
   description: "" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
