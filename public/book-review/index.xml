@@ -9,11 +9,11 @@
     <lastBuildDate>Wed, 24 Apr 2024 16:27:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/book-review/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Latest Article</title>
-      <link>http://localhost:1313/book-review/example/</link>
+      <title>Instinct Unleashed: The Power of Not Thinking</title>
+      <link>http://localhost:1313/book-review/instinct-unleashed-the-power-of-not-thinking/</link>
       <pubDate>Wed, 24 Apr 2024 16:27:22 +0200</pubDate>
-      <guid>http://localhost:1313/book-review/example/</guid>
-      <description>Announcing the latest and the greatest.</description>
+      <guid>http://localhost:1313/book-review/instinct-unleashed-the-power-of-not-thinking/</guid>
+      <description>Dive into the fascinating world of human intelligence with Simon Roberts, the business anthropologist who unveils the secret sauce AI is still desperately trying to replicate – embodied knowledge. Forget the tech jargon; Roberts takes you on a ride exploring how our bodies, with their movement, senses, and memories, bring a unique edge that artificial intelligence can&amp;rsquo;t quite grasp. Get ready for mind-bending examples of companies making killer decisions by combining data with hands-on learning experiences.</description>
     </item>
   </channel>
 </rss>
