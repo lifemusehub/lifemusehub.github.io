@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Summaries and Reviews on Life Muse Hub</title>
+    <link>http://localhost:1313/book-review/</link>
+    <description>Recent content in Book Summaries and Reviews on Life Muse Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Apr 2024 16:27:22 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/book-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Latest Article</title>
+      <link>http://localhost:1313/book-review/example/</link>
+      <pubDate>Wed, 24 Apr 2024 16:27:22 +0200</pubDate>
+      <guid>http://localhost:1313/book-review/example/</guid>
+      <description>Announcing the latest and the greatest.</description>
+    </item>
+  </channel>
+</rss>

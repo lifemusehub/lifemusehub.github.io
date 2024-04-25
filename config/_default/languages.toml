@@ -5,7 +5,7 @@
   [en.params]
     languageISO = "EN"
     languageTag = "en-US"
-    footer = 'Brought to you by <a class="text-muted" href="https://gethyas.com/">Hyas</a>'
+    footer = 'Read to invite the world within, write to bring your voice to life, and think to connect the dots of understanding'
     alertText = '<a class="alert-link stretched-link fw-normal" href="/blog/example-post/">Doks version 1.0 just shipped!</a>'
 
 [de]
