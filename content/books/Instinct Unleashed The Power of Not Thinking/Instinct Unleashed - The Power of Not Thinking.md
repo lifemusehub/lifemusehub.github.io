@@ -7,7 +7,7 @@ lastmod: 2024-04-24T16:27:22+02:00
 draft: false
 weight: 50
 categories: []
-tags: ["book review", "non-fiction", "psychology"]
+tags: ["book-review", "non-fiction", "psychology"]
 contributors: []
 pinned: false
 homepage: false

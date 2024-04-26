@@ -10,7 +10,7 @@ enableRobotsTXT = true
 languageCode = "en-US"
 paginate = 10
 rssLimit = 10
-summarylength = 20 # 70 (default)
+summarylength = 100 # 70 (default)
 
 # Multilingual
 defaultContentLanguage = "en"
@@ -59,7 +59,7 @@ copyRight = ""
 [permalinks]
   blog = "/blog/:slug/"
   docs = "/docs/:sections[1:]/:slug/"
-  book-review = "/book-review/:slug/"
+  books = "/books/:slug/"
 # docs = "/docs/1.0/:sections[1:]/:slug/"
 
 [minify.tdewolff.html]

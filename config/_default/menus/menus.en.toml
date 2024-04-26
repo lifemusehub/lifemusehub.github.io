@@ -40,8 +40,8 @@
   weight = 30
 
 [[main]]
-  name = "Book Review"
-  url = "/book-review/"
+  name = "Books"
+  url = "/books/"
   weight = 40
 
 # [[social]]
