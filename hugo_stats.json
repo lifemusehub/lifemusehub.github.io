@@ -33,6 +33,7 @@
       "meta",
       "nav",
       "noscript",
+      "ol",
       "p",
       "path",
       "script",
@@ -234,6 +235,9 @@
       "buttonColorMode",
       "doks-docs-nav",
       "further-reading",
+      "have-you-or-your-loved-ones-experienced-the-following",
+      "here-are-some-more-practical-tactics-to-help-you-sleep-better-and-beat-insomnia",
+      "how-can-you-beat-insomnia-and-have-a-good-nights-sleep",
       "offcanvasNavMain",
       "offcanvasNavMainLabel",
       "offcanvasNavSection",
@@ -248,6 +252,7 @@
       "socialMenu",
       "summary",
       "take-aways",
+      "the-benefit-of-getting-a-good-nights-sleep",
       "toc"
     ]
   }
